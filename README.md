@@ -117,8 +117,7 @@ The application features two main forms: one for drawing and one for managing sh
 Clone the repository:
 
     ```bash
-    git clone https://github.com/stasssvp/flee-the-beast.git
-    ```
+    git clone https://github.com/stasssvp/application-shape-editor.git
 
 ## Credits
 
