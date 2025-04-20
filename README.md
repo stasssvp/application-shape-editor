@@ -112,13 +112,18 @@ The application features two main forms: one for drawing and one for managing sh
 - Visual Studio 2019 or later
 - .NET Framework 4.7.2+
 
-### How to clone the repository
+## Installation and Running
 
-git clone https://github.com/your-username/graphic-shapes-editor.git
-cd graphic-shapes-editor
+Clone the repository:
 
----
+    ```bash
+    git clone https://github.com/stasssvp/flee-the-beast.git
+    ```
 
-##License
+## Credits
 
-This project is licensed under the MIT License.
+Developed by: Stanimir Petkov
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for more information.
